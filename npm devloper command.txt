@@ -1,0 +1,7 @@
+1)basically this command is use to update all the node packages so protect yourself against attacker
+  >npm i -g npm-check-updates
+  >ncu -u
+  >npm install
+
+2)when vulerability found your npm package so that time fix the vulerability using this command
+   >npm audit fix
